@@ -1,0 +1,1 @@
+INDEX VERSION 1.126+T:\CSEclipseWorkspace\COMPSC_1033\.metadata\.plugins\org.eclipse.jdt.core
